@@ -28,7 +28,6 @@ int main()
             << "\n2. Add"
             << "\n3. View"
             << "\n4. Delete"
-            /*<< "\n5. Sort"*/
             << "\n5. Calculate average"
             << "\n6. Replace even to average"
             << "\n10. Exit"
